@@ -48,7 +48,7 @@
 
 
 <br>
-Business with focus on Data Analytics and BI, with proficiency in tools such as Excel, Tableau, Python and SQL. I have extensive experience in Logistics, Sales, Leadership and Project Management, with proven ability implementing high value projects in Business. Looking for challenges in Business Analytics and Data Science.
+Business with focus on Data Analytics, with proficiency in tools Python SQL and Machine learning. I have extensive experience in Logistics, Sales, Leadership and Project Management, with proven ability implementing high value projects in Business. Looking for challenges in Business Analytics and Data Science.
 <br><br>
 
 <p align="center">
