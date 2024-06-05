@@ -1,10 +1,6 @@
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Carlo+Pérez!;&color=royalblue" />
 </h1>
-
-
 
 ## <b> Let's Connect..!</b><img src="https://github.com/CarloBPerezFlores/CarloBPerezFlores/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -14,27 +10,27 @@
 
 <li>
 <a href="https://linkedin.com/in/carlobperezf" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: carlobperezf-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: carlobperezf-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedinstyle="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-  <a href="https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal" target="_blank">
-    <img src="https://img.shields.io/badge/googlesites: carlobenitoperezflores-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=googlesites&logoColor=white" alt="Power BI Sales Analysis" style="margin-bottom: 5px;"/>
-  </a>
+<a href="https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal" target="_blank">
+    <img src="https://img.shields.io/badge/googlesites: carlobenitoperezflores-%23D6EAF8.svg?color=1DA1F2&style=for-the-badge&logo=googlesites&logoColor=white" alt="Power BI Sales Analysis" style="margin-bottom: 5px;"/>  
+</a>
 </li>
 
 <br>
 
 <li>
   <a href="https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio: carlobenitoperezflores-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=Portfolio&logoColor=black" alt="power-bi-hr-data-analytics" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO:CARLOBENITOPEREZFLORES-%2300acee.svg?color=#50C878&style=for-the-badge&logo=Portfolio&logoColor=white" alt="power-bi-hr-data-analytics" style="margin-bottom: 5px;"/>
   </a>
 </li>
 
-
+<br>
 
 <li>
 <a href="mailto:carlobenitoperezflores@gmail.com" target="_blank">
