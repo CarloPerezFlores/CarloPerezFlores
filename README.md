@@ -26,7 +26,7 @@
 
 <li>
   <a href="https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO:CARLOBENITOPEREZFLORES-%2300acee.svg?color=#50C878&style=for-the-badge&logo=Portfolio&logoColor=white" alt="power-bi-hr-data-analytics" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO: CARLOBENITOPEREZFLORES-%2300acee.svg?color=#50C878&style=for-the-badge&logo=Portfolio&logoColor=white" alt="power-bi-hr-data-analytics" style="margin-bottom: 5px;"/>
   </a>
 </li>
 
