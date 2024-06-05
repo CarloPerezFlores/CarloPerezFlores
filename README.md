@@ -31,6 +31,13 @@
 </li>
 
 <br>
+<li>
+  <a href="https://public.tableau.com/app/profile/carlo.perez1099" target="_blank">
+    <img src="https://img.shields.io/badge/TABLEAU: carlo.perez1099-%23C6C6C6.svg?color=black&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Profile" style="margin-bottom: 5px;"/>
+  </a>
+</li>
+
+<br>
 
 <li>
 <a href="mailto:carlobenitoperezflores@gmail.com" target="_blank">
