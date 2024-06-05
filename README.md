@@ -85,3 +85,6 @@ Business with focus on Data Analytics, with proficiency in tools Python SQL and 
 <br>
 <br>
 <br>
+<hr/>
+<div align="center">
+
