@@ -29,6 +29,14 @@
 <br>
 
 <li>
+  <a href="https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio: carlobenitoperezflores-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=Portfolio&logoColor=black" alt="power-bi-hr-data-analytics" style="margin-bottom: 5px;"/>
+  </a>
+</li>
+
+
+
+<li>
 <a href="mailto:carlobenitoperezflores@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  carlobenitoperezflores-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
