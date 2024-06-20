@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Carlo+Pérez!;&color=royalblue" />
 </h1>
-
+<img src="https://i.imgur.com/weNbhGZ.png">
 <h1 align="center">
 
     
@@ -13,21 +13,12 @@
 
   
 
-
-
-
-
-
-
-<a href="mailto:carlobenitoperezflores@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail:  carlobenitoperezflores-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom:5px;" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlobperezf)
-
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/carlo.perez1099)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CARLOBENITOPEREZFLORES-729672926432985098?style=for-the-badge&logo=Googlesites&logoColor=white&labelColor=101010&color=6a0dad)](https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal)
+[![Google Sites](https://img.shields.io/badge/Google_Sites-Carlo_Benito_Perez_Flores-%23FFA500.svg?style=for-the-badge&logo=googlesites&logoColor=white&labelColor=101010)](https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal)
+[![Gmail](https://img.shields.io/badge/gmail%3A-CARLOBENITOPEREZFLORES-%23000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlobenitoperezflores@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CARLOBENITOPEREZFLORES-729672926432985098?style=for-the-badge&logo=Googlesites&logoColor=white&labelColor=101010)](https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal)
-
-[![Google Sites](https://img.shields.io/badge/Google_Sites-Carlo_Benito_Perez_Flores-%23D6EAF8.svg?style=for-the-badge&logo=googlesites&logoColor=white&labelColor=000000)](https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal)
 
 
 
