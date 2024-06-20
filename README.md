@@ -6,52 +6,30 @@
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
-<a href="https://linkedin.com/in/carlobperezf" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: carlobperezf-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedinstyle="margin-bottom: 5px;"/>
-</a>
-</li>
+<a href="mailto:carlobenitoperezflores@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail:  carlobenitoperezflores-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom:5px;" />
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlobperezf)
 
-<li>
-<a href="https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal" target="_blank">
-    <img src="https://img.shields.io/badge/googlesites: carlobenitoperezflores-%23D6EAF8.svg?color=1DA1F2&style=for-the-badge&logo=googlesites&logoColor=white" alt="Power BI Sales Analysis" style="margin-bottom: 5px;"/>  
-</a>
-</li>
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/carlo.perez1099)
 
-<br>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CARLOBENITOPEREZFLORES-729672926432985098?style=for-the-badge&logo=Googlesites&logoColor=white&labelColor=101010)](https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal)
 
-<li>
-  <a href="https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO: CARLOBENITOPEREZFLORES-%2300acee.svg?color=#50C878&style=for-the-badge&logo=Portfolio&logoColor=white" alt="power-bi-hr-data-analytics" style="margin-bottom: 5px;"/>
-  </a>
-</li>
-
-<br>
-<li>
-  <a href="https://public.tableau.com/app/profile/carlo.perez1099" target="_blank">
-    <img src="https://img.shields.io/badge/TABLEAU: carlo.perez1099-%23C6C6C6.svg?color=black&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Profile" style="margin-bottom: 5px;"/>
-  </a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:carlobenitoperezflores@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  carlobenitoperezflores-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+[![Google Sites](https://img.shields.io/badge/Google_Sites-Carlo_Benito_Perez_Flores-%23D6EAF8.svg?style=for-the-badge&logo=googlesites&logoColor=white&labelColor=000000)](https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal)
 
 
-	
-</ul>
-</div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br>
