@@ -2,9 +2,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Carlo+Pérez!;&color=royalblue" />
 </h1>
 
-## <b> Let's Connect..!</b><img src="https://github.com/CarloBPerezFlores/CarloBPerezFlores/raw/main/assets/mdImages/handshake.gif" width ="80">
+<h1 align="center">
+
+    
+![](https://komarev.com/ghpvc/?username=CarloPerezFlores&color=blueviolet&style=flat-square)
+</h1>
+
+## <b> Let's Connect..!</b><img src="https://github.com/CarloPerezFlores/CarloPerezFlores/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+
+  
+
+
+
+
+
 
 
 <a href="mailto:carlobenitoperezflores@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail:  carlobenitoperezflores-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom:5px;" />
