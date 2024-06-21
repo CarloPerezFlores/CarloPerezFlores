@@ -13,8 +13,8 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/CarloPerezFlores/CarloPerezFlores/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-  
-
+<h1 align="center"> 
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlobperezf)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/carlo.perez1099)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-CARLOBENITOPEREZFLORES-729672926432985098?style=for-the-badge&logo=Googlesites&logoColor=white&labelColor=101010&color=6a0dad)](https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal)
@@ -46,8 +46,7 @@ Passionate about data analysis and business analytics, with proficiency in Pytho
 
 
 
-
-
+<p align="center">
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
     <img decoding="async" src="https://img.shields.io/badge/scipy-green?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy"/>
