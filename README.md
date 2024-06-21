@@ -4,6 +4,8 @@
 
 <h1 align="center">
 
+
+<img decoding="async" src="https://media.licdn.com/dms/image/D5616AQHOitTWzQGYCQ/profile-displaybackgroundimage-shrink_350_1400/0/1718943840772?e=1724284800&v=beta&t=_xv_XMpS8oKv4GzRRlvK2Mx2hg-CLCwMZtEzAO-X0Es" width="800"/>
     
 ![](https://komarev.com/ghpvc/?username=CarloPerezFlores&color=blueviolet&style=flat-square)
 </h1>
