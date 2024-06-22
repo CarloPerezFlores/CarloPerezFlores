@@ -28,7 +28,7 @@ Passionate about data analysis and business analytics, with proficiency in Pytho
 <br><br>
 
 <p align="center">
-
+Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,github,r,js,html,css,vscode,discord" />
