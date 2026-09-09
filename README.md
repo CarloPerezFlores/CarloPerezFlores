@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./OCC.png" width="100%" alt="Carlo Perez Flores Banner"/>
 </p>
-
 <h1 align="center">Carlo Perez Flores</h1>
 
 <h3 align="center">
@@ -11,12 +10,13 @@ Commercial Analytics • Business Intelligence • Supply Chain • Sales Strate
 </h3>
 
 <p align="center">
-  <img src="assets/profile.png" width="180" alt="Carlo Perez Flores"/>
+  <img src="./OCC.png" width="180" alt="Carlo Perez Flores"/>
 </p>
 
 <p align="center">
 Helping businesses grow through data-driven commercial decisions across Logistics, Transportation, Supply Chain and Commercial Analytics.
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CarloPerezFlores&style=flat-square&color=2563EB"/>
