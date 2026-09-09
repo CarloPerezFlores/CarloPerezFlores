@@ -1,5 +1,3 @@
-# Carlo Perez Flores
-
 <h1 align="center">Carlo Perez Flores</h1>
 
 <h3 align="center">
