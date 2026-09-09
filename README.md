@@ -1,8 +1,5 @@
 # Carlo Perez Flores
 
-<p align="center">
-  <img src="./OCC.png" width="100%" alt="Carlo Perez Flores Banner"/>
-</p>
 <h1 align="center">Carlo Perez Flores</h1>
 
 <h3 align="center">
