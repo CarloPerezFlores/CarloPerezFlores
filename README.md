@@ -1,82 +1,288 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+interested+in+data+science!;&color=royalblue" />
-</h1>
+# Carlo Perez Flores
 
-<h1 align="center">
-
-
-<img decoding="async" src="https://media.licdn.com/dms/image/D5616AQHOitTWzQGYCQ/profile-displaybackgroundimage-shrink_350_1400/0/1718943840772?e=1724284800&v=beta&t=_xv_XMpS8oKv4GzRRlvK2Mx2hg-CLCwMZtEzAO-X0Es" width="800"/>
-    
-![](https://komarev.com/ghpvc/?username=CarloPerezFlores&color=blueviolet&style=flat-square)
-</h1>
-
-## <b> Let's Connect..!</b><img src="https://github.com/CarloPerezFlores/CarloPerezFlores/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-
-<h1 align="center"> 
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlobperezf)
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)](https://public.tableau.com/app/profile/carlo.perez1099)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CARLOBENITOPEREZFLORES-729672926432985098?style=for-the-badge&logo=Googlesites&logoColor=white&labelColor=101010&color=6a0dad)](https://sites.google.com/view/power-bi-hr-data-analytics/p%C3%A1gina-principal)
-[![Google Sites](https://img.shields.io/badge/Google_Sites-Carlo_Benito_Perez_Flores-%23FFA500.svg?style=for-the-badge&logo=googlesites&logoColor=white&labelColor=101010)](https://sites.google.com/view/powerbi-sales-analysis/p%C3%A1gina-principal)
-[![Gmail](https://img.shields.io/badge/gmail%3A-CARLOBENITOPEREZFLORES-%23000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlobenitoperezflores@gmail.com)
-
-
-
-<br>
-Passionate about data analysis and business analytics, with proficiency in Python, SQL, and Machine Learning. My background spans key areas such as Logistics, Sales, Leadership, and Project Management, with a proven track record in successfully implementing high-value projects within business environments.
-<br><br>
+<h3 align="center">
+Commercial Analytics • Business Intelligence • Supply Chain • Sales Strategy
+</h3>
 
 <p align="center">
-Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,github,r,js,html,css,vscode,discord" />
-  </a>
+Helping businesses grow through data-driven commercial decisions.
 </p>
-<p align="center">
-<code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-<td align="center" width="20%">
-<p align="center">
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-
-
-
-
-
 
 <p align="center">
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-    <img decoding="async" src="https://img.shields.io/badge/scipy-green?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy"/>
-    <img decoding="async" src="https://img.shields.io/badge/XGBoost-5391FE?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-    <img decoding="async" src="https://img.shields.io/badge/LightGBM-00AEEF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="LightGBM"/>
-    <img decoding="async" src="https://img.shields.io/badge/CatBoost-2F74C0?style=for-the-badge&logo=cat&logoColor=white" alt="CatBoost"/>
-    <img decoding="async" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-    <img decoding="async" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img decoding="async" src="https://img.shields.io/badge/Spacy-09AFC7?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy"/>
-    <img decoding="async" src="https://img.shields.io/badge/BERT-F9A03C?style=for-the-badge&logo=transformers&logoColor=white" alt="BERT"/>
-    <img decoding="async" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-   
-</div>
+<img src="https://komarev.com/ghpvc/?username=CarloPerezFlores&style=flat-square&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/CarloPerezFlores?style=flat-square&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/CarloPerezFlores?style=flat-square&color=2563EB"/>
+</p>
 
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+## About Me
 
-<div align="center">
+Senior Commercial Executive transitioning into **Commercial Analytics & Business Intelligence** after more than **10 years driving B2B commercial growth** across Logistics, Transportation, Freight Forwarding, Contract Logistics and Supply Chain Solutions throughout **Mexico, the United States and Canada**.
 
-<a href="https://github.com/CarloPerezFlores">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarloPerezFlores&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarloPerezFlores&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="CarloPerezFlores"/>
+I specialize in transforming commercial and operational data into executive dashboards, business insights and growth strategies using **Power BI, SQL, Python and Excel**.
 
+**Portfolio Focus**
+
+* Commercial Analytics
+* Business Intelligence
+* Sales Performance Dashboards
+* Supply Chain Analytics
+* Customer & Product Analytics
+* Demand Forecasting
+
+---
+
+## Core Expertise
+
+<table>
+<tr>
+<td>
+
+**Commercial Strategy**
+
+* B2B Sales
+* Key Account Management
+* Revenue Growth
+* Cross-selling & Upselling
+* Forecasting
+* Pricing Strategy
+
+</td>
+<td>
+
+**Business Intelligence**
+
+* Power BI
+* DAX
+* Power Query
+* KPI Design
+* Executive Dashboards
+* Business Storytelling
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**Supply Chain Analytics**
+
+* Logistics Analytics
+* Transportation KPIs
+* Warehouse Analytics
+* OTIF & SLA Monitoring
+* Inventory Analytics
+* Route Performance
+
+</td>
+<td>
+
+**Data Analytics**
+
+* Python
+* SQL
+* Excel
+* Pandas
+* NumPy
+* Exploratory Data Analysis
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# Featured Analytics Projects
+
+## Retail Commercial Analytics Dashboard
+
+Power BI executive dashboard analyzing **25.44M retail units sold** across Ecuador.
+
+**Business Intelligence • Power BI • DAX • Python**
+
+**Highlights**
+
+* Executive KPIs
+* Geographic Performance
+* Product Mix Analysis
+* Demand Drivers
+* Customer Insights
+
+Repository:
+
+`Retail-Commercial-Analytics-Dashboard`
+
+---
+
+## Customer Churn Prediction
+
+Machine Learning project identifying customers at risk of subscription cancellation.
+
+**Python • Classification • Business Analytics**
+
+Business impact includes customer retention opportunities through predictive analytics.
+
+---
+
+## Retail Sales Forecasting
+
+Time series forecasting project predicting future retail demand.
+
+**Python • Forecasting • Time Series**
+
+Business use case:
+
+* Inventory Planning
+* Demand Forecasting
+* Commercial Planning
+
+---
+
+## SQL Business Analytics
+
+SQL portfolio solving real commercial business questions through relational databases.
+
+Topics include:
+
+* Sales KPIs
+* Customer Segmentation
+* Revenue Analysis
+* Window Functions
+* CTEs
+
+---
+
+## Customer Segmentation (RFM)
+
+Customer clustering using behavioral purchase metrics.
+
+**Python • SQL • Business Intelligence**
+
+Business use cases:
+
+* Loyalty Programs
+* Marketing Campaigns
+* Customer Lifetime Value
+
+---
+
+## Supply Chain Analytics Dashboard *(Coming Soon)*
+
+Executive dashboard focused on logistics and transportation KPIs.
+
+Planned analysis:
+
+* OTIF
+* Transit Time
+* Fill Rate
+* Warehouse Performance
+* Carrier Performance
+
+---
+
+# Technology Stack
+
+### Business Intelligence
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+</p>
+
+### Data Analytics
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### Currently Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Microsoft_Fabric-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PL--300-Power_BI_Data_Analyst-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced_SQL-0F766E?style=for-the-badge"/>
+</p>
+
+---
+
+# Certifications
+
+* Business Analytics — The Wharton School
+* Data Science Bootcamp — TripleTen
+* Google Project Management Professional Certificate
+* Pricing Strategy Optimization — University of Virginia
+* HubSpot Sales Management Certification
+* HubSpot Sales Enablement Certification
+* Power BI Essential Training (LinkedIn Learning)
+
+---
+
+# Professional Experience Snapshot
+
+| Area                     | Experience                               |
+| ------------------------ | ---------------------------------------- |
+| Logistics & Supply Chain | 10+ Years                                |
+| Commercial Sales (B2B)   | Freight Forwarding, Transportation & 3PL |
+| Portfolio Management     | Up to **USD 22 Million**                 |
+| Regions                  | Mexico • USA • Canada                    |
+| Leadership               | Commercial Strategy & Key Accounts       |
+
+---
+
+# What I'm Building in 2026
+
+* Executive Power BI Dashboards
+* Commercial Analytics Portfolio
+* Supply Chain Analytics Projects
+* SQL Case Studies
+* Python Forecasting Models
+* Customer Segmentation Models
+
+Goal: Build a portfolio combining **Business Strategy + Analytics + Supply Chain**.
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/carlobperezf">
+<img src="https://img.shields.io/badge/LinkedIn-Carlo_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</div>
 
-<br>
-<br>
-<br>
-<hr/>
-<div align="center">
+<a href="mailto:carlobenitoperezflores@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CarloPerezFlores&show_icons=true&count_private=true&include_all_commits=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloPerezFlores&layout=compact"/>
+</p>
+
+---
+
+<p align="center">
+Building Business Intelligence solutions that connect commercial strategy with data analytics.
+</p>
+
 
