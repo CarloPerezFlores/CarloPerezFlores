@@ -11,7 +11,7 @@ Commercial Analytics • Business Intelligence • Supply Chain • Sales Strate
 </h3>
 
 <p align="center">
-  <img src="./assets/profile.png" width="180" alt="Carlo Perez Flores"/>
+  <img src="assets/profile.png" width="180" alt="Carlo Perez Flores"/>
 </p>
 
 <p align="center">
